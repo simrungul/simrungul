@@ -12,31 +12,38 @@
 
 
 # 💼 Professional Summary
+A highly driven, analytical, and goal-oriented professional who holds a Bachelor’s Degree In Biological Sciences, a Postgraduate Diploma
+in Mathematics and currently pursuing a Master’s Degree in Computer Science, with excellent skills in analysis, reporting and statistics.
 
-A driven and analytical professional with a Bachelor’s in Biological Sciences, a Postgraduate Diploma in Mathematics, and currently pursuing a Master’s in Computer Science. Skilled in data analysis, statistical reporting, and workflow optimization. Passionate about leveraging mathematical and programming expertise to transition from healthcare sciences into a data-centric or quantitative role.
+Ability to use a data-driven approach to uncover areas of improvement in operations to optimise workflow and reporting. Seeking to utilise education in Mathematics coupled with strong analytical skill sets to transition career from healthcare sciences into a quantitative field.
 
----
+
 
 # 🔧 Skills & Competencies
+### 📊 Data Analysis & Statistics
+- **Data Analytics**
+- **Statistical Analysis**
+- **Reporting & Modelling**
 
-### 🧠 Programming & Scripting
-- Python • R • JavaScript • SQL
+### 🧠 Programming Languages
+- **Python**
+- **R**
+- **JavaScript**
+- **Kali Linux**
+- **Arch Linux**
+- **SQL**
 
-### 💻 Operating Systems
-- Arch Linux • Kali Linux
+### 📈 Tools & Software
+- **Tableau**
+- **SPSS Statistics**
+- **Microsoft Office Suite**
 
-### 📊 Data Analysis & Reporting
-- Tableau • SPSS • Microsoft Excel / Office
-- Data Analytics • Statistical Modelling • Reporting Automation
-
----
 
 # 📬 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/simrun-gul-b9902b123)
-- 📧 **Email**: simrungul@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com)
+- 📧 Email: [simrungul@gmail.com](mailto:simrungul@gmail.com)
 
----
 
 # 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrungul&layout=compact&langs_count=10&theme=radical)
