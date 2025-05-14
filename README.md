@@ -42,7 +42,6 @@ Ability to use a data-driven approach to uncover areas of improvement in operati
 # 📬 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com)
-- 📧 Email: [simrungul@gmail.com](mailto:simrungul@gmail.com)
 
 
 # 🧠 Most Used Languages
